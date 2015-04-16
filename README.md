@@ -3,8 +3,6 @@ My Demo First Test Repo Created.
 
 I successfully clone it to my FirstRepo Folder.
 
-i deleted my other account to check
+I deleted my other account to check if the commits made by changed to my name.
 
-if the commits made by changed to my name.
-
-experinebting to edit on readme.md file
+Experinebting to edit on readme.md file.
