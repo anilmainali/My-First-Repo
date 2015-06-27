@@ -132,6 +132,7 @@ Save the script again to establsh a fall-back point.
 ![transname](https://cloud.githubusercontent.com/assets/10678180/8362387/19f793e8-1b3e-11e5-8e48-2e3db78bdf68.PNG)
 
  4 .Click OK to set the transaction.
+
  5 .Click the ![endtrans](https://cloud.githubusercontent.com/assets/10678180/8362380/1068ef5c-1b3e-11e5-8237-8d9d26149759.png)   stop transaction icon
 
 
