@@ -203,8 +203,7 @@ In TruClient Action.
  2. Select Miscellaneous.
 
 
- ![mlt1md_image2](https://cloud.githubusercontent.com/assets/10678180
-/8443075/0cba7a38-1f49-11e5-9684-3795a24afe69.PNG)
+![mlt1md_image2](https://cloud.githubusercontent.com/assets/10678180/8443075/0cba7a38-1f49-11e5-9684-3795a24afe69.PNG)
 
 
  3. Drag **Evaluate JavaScript** and drop it above the step.
