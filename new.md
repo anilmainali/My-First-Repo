@@ -202,9 +202,8 @@ In TruClient Action.
  1. In the TruClient window, click the Toolbox vertical tab to reveal its   options.
  2. Select Miscellaneous.
 
-    ![mlt1md_image2](https://cloud.githubusercontent.com/assets/10678180
- /8443075/0cba7a38-1f49-11e5-9684-
-3795a24afe69.PNG)
+![mlt1md_image2](https://cloud.githubusercontent.com/assets/10678180
+/8443075/0cba7a38-1f49-11e5-9684-3795a24afe69.PNG)
 
  3. Drag **Evaluate JavaScript** and drop it above the step.
 
@@ -247,11 +246,10 @@ capture the string into a variable named **array**.
 
  The `+` in `([0-9]+)` specifies any number of repeats. 
 
-  7.Type in this line to assign the 2nd value of the arrary 
 
- to a LoadRunner parameter named "Step1Value" to hold ???
-  
- where step 1 value is 4360 which dynamacally changes.
+ 7. Type in this line to assign the 2nd value of the arrary  to a LoadRunner parameter named "Step1Value" to hold ???
+
+  where step 1 value is 4360 which dynamacally changes.
    
 ```
  TC.setParam("Step1Value",array[1]);
