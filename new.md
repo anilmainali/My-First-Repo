@@ -1,8 +1,7 @@
 
 Next, follow the following steps inorder to capture the generated**dynamic number.**
 
-![01_mlt1md_dynval](https://cloud.githubusercontent.com/assets/10678180/8470232/
-a699a9e4-204d-11e5-9868-9dfcb1e53f8a.PNG)
+![01_mlt1md_dynval](https://cloud.githubusercontent.com/assets/10678180/8470232/a699a9e4-204d-11e5-9868-9dfcb1e53f8a.PNG)
 
  1.Click on **4243/generated number** to open up the dialog.
 
@@ -14,8 +13,7 @@ The Arguments dialog opens.
 
  2.Click the drop down arrow on the right of value and select **JavaScript.**
 
-![04mlt1md_clickjs](https://cloud.githubusercontent.com/assets/10678180
-/8470237/b165c4de-204d-11e5-8ea9-bea12c8bdf36.PNG)
+![04mlt1md_clickjs](https://cloud.githubusercontent.com/assets/10678180/8470237/b165c4de-204d-11e5-8ea9-bea12c8bdf36.PNG)
 
  3.Click the **JS** icon to pop-up a text window.
 
