@@ -130,7 +130,7 @@ Narrative text to the diagram and video is below.
 | just as native mobile app test automation code | <a href="#Appium Code">Appium Code</a> |
 | are controlled | Appium Driver |
 | so that timings are captured | <a href="#BrowserMob">BrowserMob Proxy</a> |
-| into files included in analysis. | <a href="#HAR-files">HAR files</a> |
+| into files included in analysis. | <a href="#HAR files">HAR files</a> |
 |  |  |
 | "Machine learning" Programs scan the Elastisearch server to | Python |
 | identify the levels where | thresholds |
