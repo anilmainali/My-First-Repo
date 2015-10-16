@@ -327,6 +327,7 @@ Files are sent to <a href="#LogStash">LogStash</a>.
 
 <a id="HAR files"></a>
 <a name="HAR_Files"></a>
+**HAR files**
 
 <a name="AppiumController"></a>
 **Appium Controller**
