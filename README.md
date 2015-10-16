@@ -341,6 +341,7 @@ into a common location with a common date format.
 <a name="ElastiSearch"></a>
 **Elasticsearch** combines and indexes logs from several sources.
 
+<a id="Kibana"></a>
 <a name="Kibana"></a>
 **Kibana** displays dashboards from filtered data indexed on several dimensions.
 See <a href="#Analysis">Analysis</a> section below.
