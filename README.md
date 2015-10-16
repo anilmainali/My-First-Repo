@@ -248,8 +248,8 @@ Examples of configurations include:
    * Maximum cache size
    * etc.
 
-<a id="Jenkins CI"></a>
-<a name="Jenkins CI"></a>
+<a id="Jenkins-CI"></a>
+<a name="JenkinsCI"></a>
 **Jenkins/CI** 
 builds / initiates the various programs listed below on a schedule or when a build is requested.
 
