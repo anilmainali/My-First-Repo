@@ -337,6 +337,7 @@ controls native mobile smart phones as if humans were swiping and tapping the sc
 **Logstash** collects data from JMeter, HAR files, web server logs, web app logs, etc. 
 into a common location with a common date format.
 
+<a id="ElastiSearch"></a>
 <a name="ElastiSearch"></a>
 **Elasticsearch** combines and indexes logs from several sources.
 
