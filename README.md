@@ -132,7 +132,7 @@ Narrative text to the diagram and video is below.
 | so that timings are captured | <a href="#BrowserMob">BrowserMob Proxy</a> |
 | into files included in analysis. | <a href="#HAR files">HAR files</a> |
 |  |  |
-| "Machine learning" Programs scan the Elastisearch server to | Python |
+| "Machine learning" Programs scan the Elastisearch server to | <a href="#Python"></a> |
 | identify the levels where | thresholds |
 | alerts are sent out for human review. | alerts |
 |  |  |
@@ -328,6 +328,10 @@ Files are sent to <a href="#LogStash">LogStash</a>.
 <a id="HAR files"></a>
 <a name="HAR_Files"></a>
 **HAR files**
+
+<a id="Python"></a>
+<a name="Python"></a>
+**Python**
 
 <a id="Appium Driver"></a>
 <a name="AppiumController"></a>
