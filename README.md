@@ -329,6 +329,7 @@ Files are sent to <a href="#LogStash">LogStash</a>.
 **Appium Controller**
 controls native mobile smart phones as if humans were swiping and tapping the screen.
 
+<a id="Appium Code"></a>
 <a name="AppiumCode"></a>
 **Appium Code**
 controls native mobile smart phones as if humans were swiping and tapping the screen.
