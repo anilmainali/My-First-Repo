@@ -10,6 +10,10 @@ Git & GitHub
 
 #### How to open an account with GitHub?
 
+#### How to Install Git in local machine ?
+
+#### How to fork a Repo?
+
 
 
 
