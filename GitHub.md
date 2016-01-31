@@ -14,6 +14,10 @@ Git & GitHub
 
 #### How to fork a Repo?
 
+#### How to Delete a forked Repo?
+
+#### How to save the repo to your local machine ?
+
 
 
 
