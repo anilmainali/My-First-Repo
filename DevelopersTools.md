@@ -13,4 +13,8 @@ How to create a Project?
 
 How to access credentials?
 
+Find out how to gerate Fingerprints?
+
+How to instal VTS?
+
 
