@@ -11,4 +11,6 @@ URL Shortener API
 
 How to create a Project?
 
+How to access credentials?
+
 
