@@ -24,6 +24,7 @@ Resources:
 
 0. https://www.youtube.com/watch?v=4TrOCv5Kukk
 1. https://www.youtube.com/watch?v=nN6QuNqmAwk
+2. https://help.github.com/categories/github-pages-basics/
 
 
 
