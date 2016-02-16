@@ -18,6 +18,14 @@ Git & GitHub
 
 #### How to save the repo to your local machine ?
 
+## How to create GitHub pages?
+
+Resources:
+
+0. https://www.youtube.com/watch?v=4TrOCv5Kukk
+1. https://www.youtube.com/watch?v=nN6QuNqmAwk
+
+
 
 
 
