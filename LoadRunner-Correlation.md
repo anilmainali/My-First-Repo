@@ -1,6 +1,6 @@
 
 
-## Narration for Auto Correlation.
+## Narration
 
 We want to record into a Web protocol script.
 
@@ -8,42 +8,64 @@ We go to **Recording Options.** Instead of generating **C programming** we want 
 
 So change the Language to **JavaScript** from default **C**.
 
-By default, correlation methods are enabled for all LoadRunner users. Change/tweak correlation settings in Recording Options dialog. Automatic correlations are enabled/disabled by selecting the **‘Correlation Scan’** checkbox under **General > Code Generation.**
+By default, correlation methods are enabled. 
 
-To define preferred settings go to **Correlations >Configuration node.** We need to have all scan options checked. 
+Change/tweak correlation settings in Recording Options dialog. 
 
-We need to have the server running In Windows 7, click the Windows key and drill down into all programs, HP Software .The sample app runs as localhost, without connecting to the internet.
+Automatic correlations are enabled/disabled by selecting the **‘Correlation Scan’** checkbox under **General > Code Generation.**
+
+To define preferred settings, 
+go to **Correlations > Configuration node** 
+to have all scan options checked. 
+
+We need to have the server running In Windows 7, 
+click the Windows key and type "web tours".
+(This is faster than drilling into All programs, HP Software, Samples.)
+
+The nice thing about the WebTours sample app is it runs as localhost, 
+without connecting to the internet.
 
 We can now click the **red icon** to begin recording.
 
-Login as “jojo” with password “bean”. Click “Sign Off”, then **Stop** recording.
+Login as “jojo” with password “bean”. 
+Click “Sign Off”, then **Stop** recording.
 
-When code generation is done, The **Correlation Studio (Design Studio)** is shown.
+When code generation is done, 
+the **Correlation Studio (Design Studio)** is shown because we asked for it.
 
-Review the dynamic values.
+Some dynamic values found may not need to be correlated.
 
-Now Replay the script and we can observe that the script has failed. 
+Let's Replay the script to see if it runs without correlation.
 
-To understand why the script has failed let’s check the **Run-Time viewer.**
+The script failed so yeah, we need correlations. 
+
+To understand specifically why the script failed, 
+let’s check the **Run-Time viewer**.
 
 The script has failed because of **bad session value.**
 
-Now click on the **Design Studio.**
+Click on **Design Studio.**
 
-```
-Design Studio enables you to manage dynamic values detected by all correlation scans in the unified form and provides the complete information about the location, extraction method and the expected replacements in the script. 
-```
-
+   ```
+   Design Studio enables you to manage dynamic values detected by all correlation scans in the unified form and provides the complete information about the location, extraction method and the expected replacements in the script. 
+   ```
 
 Review the dynamic values. We can observe that there is a userSession value.
 
-Select the field and click on **Correlate.** Observe the status is checked green and the correlation has been applied.
+Select the field and click on **Correlate**.
+This makes use of files LoadRunner created during recording.
 
-Look in the script and observe the correlation has been applied and the userSession value has been changed with a parameter.(userSession)
+Observe the status is checked green and the correlation has been applied.
 
-Replay the script one more time and this time the script is passed.
+Look in the script and observe the correlation has been applied 
+and the userSession value has been changed with a parameter.(userSession)
 
-Just to confirm check the **Run-Time viewer** to see if all responses are coming back as expected.
+Replay the script one more time.
+This time the script should pass.
 
-This is one of the way how we **auto correlate** the dynamic value using **Design Studio.**
+To confirm, check the **Run-Time viewer** to 
+see if all responses comes back as expected.
+
+This is one of the ways we **auto correlate** 
+the dynamic value using **Design Studio.**
 
