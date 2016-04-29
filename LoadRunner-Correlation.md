@@ -16,7 +16,7 @@ We need to have the server running In Windows 7, click the Windows key and drill
 
 We can now click the **red icon** to begin recording.
 
-Login as “jojo” with password “bean”. Click “Sign Off”, then Stop recording.
+Login as “jojo” with password “bean”. Click “Sign Off”, then **Stop** recording.
 
 When code generation is done, The **Correlation Studio (Design Studio)** is shown.
 
@@ -24,25 +24,26 @@ Review the dynamic values.
 
 Now Replay the script and we can observe that the script has failed. 
 
-To understand why the script has failed let’s check the Run-Time viewer.
+To understand why the script has failed let’s check the **Run-Time viewer.**
 
-The script has failed because of bad session value.
+The script has failed because of **bad session value.**
 
-Now click on the Design Studio 
+Now click on the **Design Studio.**
 
-Design Studio enables you to manage dynamic values detected by all correlation scans in the unified form and provides the complete information about the location, extraction method and the 
+```
+Design Studio enables you to manage dynamic values detected by all correlation scans in the unified form and provides the complete information about the location, extraction method and the expected replacements in the script. 
+```
 
-expected replacements in the script. 
 
 Review the dynamic values. We can observe that there is a userSession value.
 
-Select the field and click on Correlate. Observe the status is checked green and the correlation has been applied.
+Select the field and click on **Correlate.** Observe the status is checked green and the correlation has been applied.
 
 Look in the script and observe the correlation has been applied and the userSession value has been changed with a parameter.(userSession)
 
 Replay the script one more time and this time the script is passed.
 
-Just to confirm check the Run-Time viewer to see if all responses are coming back as expected.
+Just to confirm check the **Run-Time viewer** to see if all responses are coming back as expected.
 
-This is one of the way how we auto correlate the dynamic value using Design Studio.
+This is one of the way how we **auto correlate** the dynamic value using **Design Studio.**
 
