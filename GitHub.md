@@ -29,6 +29,8 @@ Resources:
 3. https://help.github.com/articles/adding-a-file-to-a-repository/
 
 
+Learn Markdown:
+https://gitbookio.gitbooks.io/markdown/content/index.html
 
 
 
