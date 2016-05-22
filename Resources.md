@@ -10,6 +10,7 @@ Some Interesting Things to check out and dig deep into it.
 3. https://slack.com/
 4. http://www.webtesting.io/
 5. Curl
+6. Fiddler
 
 ## Blogs To fOllow
 0. http://wilsonmar.com/
