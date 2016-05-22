@@ -9,6 +9,7 @@ Some Interesting Things to check out and dig deep into it.
 2. https://asana.com/
 3. https://slack.com/
 4. http://www.webtesting.io/
+5. Curl
 
 ## Blogs To fOllow
 0. http://wilsonmar.com/
