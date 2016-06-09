@@ -15,6 +15,7 @@ Some Interesting Things to check out and dig deep into it.
 ## Blogs To fOllow
 0. http://wilsonmar.com/
 1. http://www.ubik-ingenierie.com/
+2. https://girliemangalo.wordpress.com/2008/12/- good one for reference.
 
 ## Tools for Mirrioring
 
