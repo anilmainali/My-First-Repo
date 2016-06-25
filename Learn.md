@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=CcOlBxomrJU&list=PL9O0W2v3gqeJdTBZb-SJppi3oKqXZD
 
 #### Putty
 http://www.putty.org/
+#### Downloading and Configuring Putty
+https://www.youtube.com/watch?v=RhD08kJOTy0
 
 #### PuTTY User Manual
 http://the.earth.li/~sgtatham/putty/0.67/puttydoc.txt
