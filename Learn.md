@@ -3,6 +3,7 @@
 https://aws.amazon.com/free/
 
 #### Unix
+https://www.youtube.com/watch?v=DpcCtaaGxyQ&list=PLd3UqWTnYXOmKXhD-PVqMN1XhNQV-s4lj
 https://www.youtube.com/watch?v=CcOlBxomrJU&list=PL9O0W2v3gqeJdTBZb-SJppi3oKqXZDztu&index=1
 
 #### Putty
