@@ -2,6 +2,12 @@
 
 https://aws.amazon.com/free/
 
+#### Putty
+http://www.putty.org/
+
+#### PuTTY User Manual
+http://the.earth.li/~sgtatham/putty/0.67/puttydoc.txt
+
 #### Few website to browse for Performance testing standards
 0. http://spec.org/
 1. http://www.tpc.org/
