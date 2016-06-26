@@ -14,6 +14,8 @@ https://www.youtube.com/watch?v=RhD08kJOTy0
 #### PuTTY User Manual
 http://the.earth.li/~sgtatham/putty/0.67/puttydoc.txt
 
+C:\Program Files (x86)\Microsoft\PetShop\
+
 #### Few website to browse for Performance testing standards
 0. http://spec.org/
 1. http://www.tpc.org/
