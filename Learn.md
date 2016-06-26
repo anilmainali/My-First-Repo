@@ -11,6 +11,9 @@ http://www.putty.org/
 #### Downloading and Configuring Putty
 https://www.youtube.com/watch?v=RhD08kJOTy0
 
+#### LoadRunner Tips
+http://loadrunnertips.com/Index.htm
+
 #### PuTTY User Manual
 http://the.earth.li/~sgtatham/putty/0.67/puttydoc.txt
 
