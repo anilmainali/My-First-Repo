@@ -32,3 +32,6 @@ A service that analyzes the content of a web page and generates suggestions to m
 https://northwaysolutions.com/blog/vugen-correlation-with-dynamic-boundaries/#.V3CyTPkrK00
 http://motevich.blogspot.com/2007/10/loadrunner-scripts-correlation-tutorial.html
 
+#### LR Quiz
+http://www.edgewordstraining.co.uk/loadrunner-quiz.php
+
