@@ -36,4 +36,5 @@ http://motevich.blogspot.com/2007/10/loadrunner-scripts-correlation-tutorial.htm
 http://www.edgewordstraining.co.uk/loadrunner-quiz.php
 http://www.guru99.com/component/com_joomlaquiz/Itemid,1187/quiz_id,4/view,quiz/
 http://www.proprofs.com/
+http://performancetesting.in/online-test/quiz.php
 
