@@ -11,7 +11,7 @@ Readers should be able to follow your tutorial from the beginning to the end on 
 -->
 
 
-# How To [Install/Configure/Do Something] on [Distribution] 
+# How To [Download and Install Jenkins] on [Windows] 
 
 <!--  Use Title Case for all Titles -->
 
