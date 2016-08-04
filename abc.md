@@ -11,7 +11,7 @@ Readers should be able to follow your tutorial from the beginning to the end on 
 -->
 
 
-# How To [Download and Install Jenkins] on [Windows] 
+# How To Download and Install Jenkins on Windows 7
 
 <!--  Use Title Case for all Titles -->
 
