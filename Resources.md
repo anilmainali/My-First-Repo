@@ -45,6 +45,7 @@ Give up these things to get success in your goal
 10. Give Up On Saying YES To Things That Don’t Support Your Goals
 11. Give Up The Toxic People
 12. Give Up Your Need To Be Liked
+13. Give Up Wasting Time
 
 
 
