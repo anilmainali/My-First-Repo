@@ -36,6 +36,8 @@ Give up these things to get success in your goal
 1. Give Up On The Unhealthy Lifestyle
 2. Give Up The Short-term Mindset
 3. Give Up On Playing Small
+4. Give Up Your Excuses
+
 
 
 
