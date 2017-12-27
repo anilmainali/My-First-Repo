@@ -42,6 +42,7 @@ Give up these things to get success in your goal
 7. Give Up Your Perfectionism
 8. Give Up Multi-tasking
 9. Give Up Your Need to Control Everything
+10. Give Up On Saying YES To Things That Don’t Support Your Goals
 
 
 
