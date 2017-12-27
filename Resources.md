@@ -40,5 +40,7 @@ Give up these things to get success in your goal
 5. Give Up The Fixed Mindset
 6. Give Up Believing In The “Magic Bullet.”
 7. Give Up Your Perfectionism
+8. Give Up Multi-tasking
+
 
 
