@@ -41,6 +41,7 @@ Give up these things to get success in your goal
 6. Give Up Believing In The “Magic Bullet.”
 7. Give Up Your Perfectionism
 8. Give Up Multi-tasking
+9. Give Up Your Need to Control Everything
 
 
 
