@@ -33,4 +33,7 @@ http://www.restapitutorial.com/
 ## Self Development
 Give up these things to get success in your goal
 
+1. Give Up On The Unhealthy Lifestyle
+
+
 
