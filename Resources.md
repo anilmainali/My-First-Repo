@@ -33,7 +33,11 @@ http://www.restapitutorial.com/
 ## Self Development
 Give up these things to get success in your goal
 
-1. Give Up On The Unhealthy Lifestyle
+1. Give Up On The Unhealthy Lifestyle.
+- Sleep Well
+- Eat Healthy
+- Exercise
+
 2. Give Up The Short-term Mindset
 3. Give Up On Playing Small
 4. Give Up Your Excuses
