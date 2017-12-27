@@ -31,5 +31,6 @@ http://fossforce.com/
 http://www.restapitutorial.com/
 
 ## Self Development
+Give up these things to get success in your goal
 
 
