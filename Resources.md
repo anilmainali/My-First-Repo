@@ -52,7 +52,7 @@ Give up these things to get success in your goal
 13. Give Up Wasting Time
 
 ## Word Count App
-
+https://wordcounter.net/
 
 
 
