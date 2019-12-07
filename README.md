@@ -1,7 +1,5 @@
-# Hello World Welcome to my first GitHub Repo !
+# Hello World Welcome To My First GitHub Repo !
 
 ## This is the first GitHub Repo I ever created :) 
 
-I was totally unaware of Git and GitHub until Mr. Wilson Mar introduced it to me.I want to Thank him for introducing me to Git and GitHub and giving me an opportunity to learn and contribute on his projects.
-
-
+Thanks to Mr. Wilson Mar for introducing me to Git & Git Hub and allowing me to learn more about it by allowing me to become a contributor on his many projects.
